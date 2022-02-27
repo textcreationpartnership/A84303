@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Extract of a letter from Yorke. Dated on Friday night, August 5. 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84303</idno>
+            <idno type="STC">Wing E3905</idno>
+            <idno type="STC">Thomason E109_29</idno>
+            <idno type="STC">ESTC R7185</idno>
+            <idno type="EEBO-CITATION">99873092</idno>
+            <idno type="PROQUEST">99873092</idno>
+            <idno type="VID">125546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125546)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Extract of a letter from Yorke. Dated on Friday night, August 5. 1642.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>August 9. London Printed for Abel Roper,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125546:1" rendition="simple:additions"/>
+            <p>AN EXTRACT OF A LETTER FROM YORKE.</p>
+            <p>Dated on FRIDAY night, <hi>Auguſt</hi> 5, 1642.</p>
+            <p>
+               <hi>Auguſt</hi> 9. London Printed for <hi>Abel Roper.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125546:2"/>
+            <pb n="1" facs="tcp:125546:2"/>
+            <head>An Extract of a Letter from Yorke, dated on fri<g ref="char:EOLhyphen"/>day right, being the <hi>5</hi> of Auguſt, <hi>1642.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">N</seg>Otwithſtanding his Maieſties war<g ref="char:EOLhyphen"/>rant commanding a ſtrict appea<g ref="char:EOLhyphen"/>rance of Horſe and Foot of all the Trained Bands of this County, w<hi rend="sup">ch</hi> are neere upon 12000, yet not one in ſixty ap<g ref="char:EOLhyphen"/>peared, and thoſe that did, were ſuch as are pro<g ref="char:EOLhyphen"/>feſsed enemies to the Parliament, and to make their number the more, their Brethren in Confe<g ref="char:EOLhyphen"/>deracie againſt the Parliament, the Papiſts, ap<g ref="char:EOLhyphen"/>peared with good ſtore of Horſe, but their Ri<g ref="char:EOLhyphen"/>ders, as was deſired, were of the Proteſtant Pro<g ref="char:EOLhyphen"/>feſſion, an expreſſion that much enlightens our eyes, as it hath Relation to Papiſts, which next to the feare of having our Armes taken from us, cauſed ſo ſlender an appearance: looke to your ſelves in the South, for they will ſuddenly ap<g ref="char:EOLhyphen"/>peare there alſo in Armes, with Riders of the Proteſtant profeſſion. To digreſse no further, let me returne to our Thurſday meeting, and be pleaſed to peruſe this incloſed ſpeech of his
+<pb n="2" facs="tcp:125546:3"/>Maieſties, a part of that dayes worke, wherein his Maieſty declares that hee takes it as a re<g ref="char:EOLhyphen"/>proach caſt upon him, that any ſhould ſay hee hath laid ſiege againſt Hull, and yet ſuch is the impudency of ſome of the Members of Lords and Commons in Parliament, as after that Speech made in their preſence, to fram &amp; con<g ref="char:EOLhyphen"/>clude a Petition to the Parliament, wherein they expreſse the King layd ſiege to Hull, and hath now raiſed the ſame, I hope his Maieſty for this offence will make them examples, I mean the L. <hi>Faulckonbridge,</hi> M. <hi>Bellaſis,</hi> Sir <hi>William Sa<g ref="char:EOLhyphen"/>vile,</hi> and diverſe others, I may adde this fur<g ref="char:EOLhyphen"/>ther, concerning that Petition, if they have not altered it ſince it was ingroſſed, it is the moſt <hi>daring Chalenge,</hi> the <hi>moſt inſolent language</hi> that ever was uſed to Parliament, indeed a thing inſufferable, and was ſubſcribed by the aforena<g ref="char:EOLhyphen"/>med perſons, and alſo by the Lord <hi>Savile,</hi> the L. <hi>Darcy, S. George Wentworth,</hi> Sir <hi>Tho. Denby,</hi> Sir <hi>Wil. Penniman,</hi> M. <hi>Mallorie,</hi> M. <hi>Al<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brough,</hi> M. <hi>Iohn Bellaſis,</hi> Members of Parliament, and alſo by Sir <hi>Iohn Mallorie,</hi> who was drawn to it againſt his will, and by Sir <hi>Marmaduke Langdale,</hi> formerly well affected, who hath the
+<pb n="3" facs="tcp:125546:3"/>
+               <hi>Straffordian</hi> ſlavery ſtill in his memory, having never indeed beere in his right wits ſince his Lordſhip frighted him it is ſigned as I heare by none bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Sir <hi>Iohn Gothericke,</hi> Sir <hi>Francis Wortley,</hi> and that Crue, that under pre ence of a Guard, have endeavoured to raiſe an Army (as you now ſee) in this County, if they could: Let not the Parliament thinke that this handfull of ill-affected and malecontented perſons, have ſuch power in this County, as to be ſeconded by the Commons in this <hi>Bold-face Petition;</hi> As ſoone as the Cavaliers are gon (till then wee will be ſilent) they ſhall know our minds are contrary to theirs; they feare it; And therefore they are raiſing 800. Horſe, (Maſter <hi>Benſon</hi> their Clarke can tell you; he hath the liſt) to be a Guard to this County, but is indeed to diſ<g ref="char:EOLhyphen"/>arme the Round-heads, and Separatiſts, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they call them, and under that name to leave naked all religious and wel-affected perſons, and arme none but Papiſts and Malignant Spi<g ref="char:EOLhyphen"/>rits; and this is the deſigne through the King<g ref="char:EOLhyphen"/>dome: and looke to the armes of your Train<g ref="char:EOLhyphen"/>ed-bands betimes, or it will be too late. The deſigne of the <hi>Germain</hi> Horſe will be execu<g ref="char:EOLhyphen"/>ted
+<pb n="4" facs="tcp:125546:4"/>by theſe men, they often vow they will all dye but the Act that this Parliament ſhall not be diſſolved without conſent of both Houſes ſhall be made voyd, and then they ſay there ſhall be a tryenniall Parliament, and diſſolved as ſoone as it is called, if they continue to op<g ref="char:EOLhyphen"/>poſe the King. They are much perplexed here, that Sir <hi>Iohn Hotham</hi> cauſed a Drummer of the Cavaliers to be hardly uſed as they ſay; whereas it is a miſ-report, the affront he gave in the gar<g ref="char:EOLhyphen"/>riſon was great, his puniſhment but a ſport. There are divers of the Trained-bands at <hi>Bever<g ref="char:EOLhyphen"/>ley,</hi> guarding the Magazine which is to follow the Cavaliers (but I had like to have erred, and ſaid the Siedge is raiſed) the Trenches are caſt down, the Ordnance at <hi>Paul</hi> and <hi>Haſell,</hi> that endeavoured to ſtop all paſſages by water to <hi>Hull,</hi> are removed; the Proclamation on paine of death, that no proviſion ſhould goe to <hi>Hull,</hi> is not in force, or not obſerved, for they keepe open Market, there is no burning of wind-mils nor other hoſtile acts, here is a Proclamation in Print, of which alſo I ſend you a Copy, that the Commiſſioners of Array ſhould attach the Lord <hi>Brooke,</hi> as a Traytor, but it is ſince called
+<pb n="5" facs="tcp:125546:4"/>in againe: ten Earles, five Lords, one Secretary, the Chancellor of the Exchequor, Maſter Con<g ref="char:EOLhyphen"/>troller, Sir <hi>Iacob Aſhley,</hi> and eight Cavaliers, are all of the Councell of War, they follow it cloſe; eſpecially ſince newes came that <hi>Portſ<g ref="char:EOLhyphen"/>mouth</hi> is in a poſture of opposition to the Parli<g ref="char:EOLhyphen"/>ament, they ſweare as ſoon as they come to <hi>Portſmouth,</hi> they will have <hi>Goring</hi> out by head and ſhoulders, for that he that betrayed the King before, and the truſt of the Parliament now, will be true to neither King nor Parlia<g ref="char:EOLhyphen"/>ment, but turne like a Weather-cocke. The Earle of <hi>Eſſex</hi> is ſlow in appearance, Counties will be over-awed with Horſe, before ſupplies come, the Cavaliers Horſe are on their march. There is newes newly come of the roaring of Cannon at <hi>New-caſtle,</hi> the Fort at <hi>Tinmouth</hi> ſhooting at the Kings Ships, which have ſeized of ſome armes comming out of <hi>Holland,</hi> the Prebends and ſome of the Gentry of the Biſho<g ref="char:EOLhyphen"/>prick of <hi>Durham</hi> are here, and are ſo ready to ad<g ref="char:EOLhyphen"/>vance monies, to raiſe force againſt the Parlia<g ref="char:EOLhyphen"/>ment, that they part with the Billet-money due to the County.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
